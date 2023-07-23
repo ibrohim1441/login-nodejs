@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "user_name": "QAHHA",
+        "age": "22",
+        "email": "qahha@melissa.tv",
+        "password": "aa111",
+        "contact": "+998955552523",
+        "institute": "YOJU UNIVERSITETI"
+    },
+    {
+        "id": 2,
+        "user_name": "Sobir",
+        "age": "32",
+        "email": "Sobir@melissa.tv",
+        "password": "sss111",
+        "contact": "+998955041245",
+        "institute": "TEKSTILNI"
+    },
+    {
+        "id": 3,
+        "user_name": "Go'zal",
+        "age": "28",
+        "email": "Go'zal@yesenia.net",
+        "password": "atirgul",
+        "contact": "+998941596543",
+        "institute": "kimyo texnologiya instituti"
+    },
+    {
+        "id": 4,
+        "user_name": "Karima",
+        "age": "24",
+        "email": "Karima.Offical@kory.org",
+        "password": "852852",
+        "contact": "+998948522585",
+        "institute": "NARXOZ"
+    },
+    {
+        "id": 5,
+        "user_name": "Obit",
+        "age": "35",
+        "email": "Obit@annie.com",
+        "password": "o1t612",
+        "contact": "+998972235654",
+        "institute": "MOLIYA"
+    },
+    {
+        "id": 6,
+        "user_name": "NARGIZA",
+        "age": "31",
+        "email": "Nargiza@annie.com",
+        "password": "nargiza11",
+        "contact": "+998977770011",
+        "institute": "Medicina"
+    },
+    {
+        "id": 7,
+        "user_name": "Qo'zvoy",
+        "age": "37",
+        "email": "qo'zivoy@annie.com",
+        "password": "qwerty",
+        "contact": "+998974111215",
+        "institute": "AGRAR UNIVERSITETI"
+    },
+    {
+        "id": 8,
+        "user_name": "Javohir",
+        "age": "21",
+        "email": "javohir@annie.com",
+        "password": "babnik",
+        "contact": "+998933255885",
+        "institute": "YOJU UNIVERSITETI"
+    },
+    {
+        "id": 9,
+        "user_name": "Temur",
+        "age": "32",
+        "email": "temur@annie.com",
+        "password": "green",
+        "contact": "+998935987815",
+        "institute": "WESTMINESTER UNIVERSITETI"
+    },
+    {
+        "id": 10,
+        "user_name": "NOZIMA",
+        "age": "22",
+        "email": "nozima@annie.com",
+        "password": "happusong",
+        "contact": "+998935965565",
+        "institute": "YOJU UNIVERSITETI"
+    }
+]
